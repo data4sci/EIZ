@@ -3,7 +3,7 @@ Rozcestník Elektronických informačních zdrojů
 
 
 ## České 
-<http://www.knihovny.cz>
+[Knihovny.cz](https://www.knihovny.cz/Search/Home)
 
 
 
